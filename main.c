@@ -4,21 +4,19 @@
 int main()
 {
 
-     printf("  TTTTTTTT   HH    HH   HH    HH    EEEEE   WW  WW  WW    AA   YY   YY\n");
-     printf("     TT      HH    HH   HH    HH    EE       WW WW WW   AA  AA  YY  YY\n");
-     printf("     TT      HHHHHHHH   HHHHHHHH    EEEEE     WWWWWW    AAAAAA   YYYYY\n");
-     printf("     TT      HH    HH   HH    HH    EE        WW  WW    AA  AA      YY\n");
-     printf("     TT      HH    HH   HH    HH    EEEEE     WW  WW    AA  AA   YYYYY\n");
-     printf("\n");
-     printf("                                                   OOO   FFFF  IIII  LL\n");
-     printf("                                                  OO OO  FF     II   LL\n");
-     printf("                                                  OO OO  FFFF   II   LL\n");
-     printf("                                                   OOO   FF    IIII  LLLL\n");
-     printf("   ---------------------------------------------------------------------------");
-     printf("      This application's source is available under the GLL version 0.3      \n");
-     printf("           and is provided AS-IS with NO WARRANTIES of ANY KIND!            \n");
-     printf("    For more information, consult LICENSE.txt that accompanied this program \n");
-     printf("                      System Sizer © 2019 N.T. Crotser                      \n\n");
+
+     printf("  ╔══════════════════════════════════════════════════════════════════════╗ \n");
+     printf("  ║                    Welcome to the System Sizer                       ║      \n");
+     printf("  ║                          (v. 20220928)                               ║ \n");
+     printf("  ╠══════════════════════════════════════════════════════════════════════╣            \n");
+     printf("  ║ This application's source is available under the MIT License and is  ║ \n");
+     printf("  ║            provided AS-IS with NO WARRANTIES of ANY KIND!            ║ \n");                 
+     printf("  ║     For more information, consult LICEENSE.txt that accompanied      ║ \n");
+     printf("  ║                             this program.                            ║ \n");
+     printf("  ╠══════════════════════════════════════════════════════════════════════╣ \n");
+     printf("  ║        System Sizer © 2022 N.T. Crotser - ntc@crotsertech.co         ║ \n");
+     printf("  ╚══════════════════════════════════════════════════════════════════════╝ \n\n");
+
 
 
           double multiply;
