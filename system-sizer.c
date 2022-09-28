@@ -7,7 +7,7 @@ int main()
 
      printf("  ╔══════════════════════════════════════════════════════════════════════╗ \n");
      printf("  ║                    Welcome to the System Sizer                       ║ \n");
-     printf("  ║                          (v. 20220928b)                              ║ \n");
+     printf("  ║                             (v. 1.0b)                                ║ \n");
      printf("  ╠══════════════════════════════════════════════════════════════════════╣ \n");
      printf("  ║ This application's source is available under the MIT License and is  ║ \n");
      printf("  ║            provided AS-IS with NO WARRANTIES of ANY KIND!            ║ \n");                 
