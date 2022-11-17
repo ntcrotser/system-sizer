@@ -7,12 +7,12 @@ int main()
 
      printf("  ╔══════════════════════════════════════════════════════════════════════╗ \n");
      printf("  ║                    Welcome to the System Sizer                       ║ \n");
-     printf("  ║                             (v. 1.0b)                                ║ \n");
+     printf("  ║                    for x86_64 Linux  (v. 1.0c)                       ║ \n");
      printf("  ╠══════════════════════════════════════════════════════════════════════╣ \n");
-     printf("  ║ This application's source is available under the MIT License and is  ║ \n");
-     printf("  ║            provided AS-IS with NO WARRANTIES of ANY KIND!            ║ \n");                 
+     printf("  ║     This application's source is available under the terms of the    ║ \n");
+     printf("  ║                     GNU General Public License v3                    ║ \n");                 
      printf("  ║     For more information, consult LICENSE.txt that accompanied       ║ \n");
-     printf("  ║                             this program.                            ║ \n");
+     printf("  ║             this program OR https://www.gnu.org/licenses/            ║ \n");
      printf("  ╠══════════════════════════════════════════════════════════════════════╣ \n");
      printf("  ║        System Sizer © 2022 N.T. Crotser - ntc@crotsertech.co         ║ \n");
      printf("  ╚══════════════════════════════════════════════════════════════════════╝ \n\n");
